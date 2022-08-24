@@ -1,7 +1,7 @@
 'use strict';
 
 // Tic Tac Toe
-
+// Game
 let board = [
     ["_", "_", "_"],
     ["_", "_", "_"],
